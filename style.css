@@ -1,4 +1,26 @@
+html,body{
+    height:100%;
+}
+
 div>img {
     padding:3em 3em;
     width:300px;
+}
+
+
+.border
+{
+    border-width:10px !important;
+}
+
+#container
+{
+    height:500px;
+    margin-bottom:-100px;
+}
+
+footer
+{
+    height:100px;
+    display:block;
 }
